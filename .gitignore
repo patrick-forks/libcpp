@@ -37,3 +37,8 @@ buildresults/
 *.exe
 *.out
 *.app
+
+# My additions
+.vscode
+.idea
+
